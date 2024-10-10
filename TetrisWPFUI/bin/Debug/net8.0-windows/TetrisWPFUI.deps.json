@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TetrisWPFUI/1.0.0": {
+        "dependencies": {
+          "TetrisLibrary": "1.0.0"
+        },
+        "runtime": {
+          "TetrisWPFUI.dll": {}
+        }
+      },
+      "TetrisLibrary/1.0.0": {
+        "runtime": {
+          "TetrisLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TetrisWPFUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TetrisLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cfowl\\source\\repos\\Tetris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{380828C2-9B52-4FE1-A408-4D4F5022FEC4}|TetrisWPFUI\\TetrisWPFUI.csproj|c:\\users\\cfowl\\source\\repos\\tetris\\tetriswpfui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380828C2-9B52-4FE1-A408-4D4F5022FEC4}|TetrisWPFUI\\TetrisWPFUI.csproj|solutionrelative:tetriswpfui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380828C2-9B52-4FE1-A408-4D4F5022FEC4}|TetrisWPFUI\\TetrisWPFUI.csproj|c:\\users\\cfowl\\source\\repos\\tetris\\tetriswpfui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{380828C2-9B52-4FE1-A408-4D4F5022FEC4}|TetrisWPFUI\\TetrisWPFUI.csproj|solutionrelative:tetriswpfui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|c:\\users\\cfowl\\source\\repos\\tetris\\tetrislibrary\\blockqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|solutionrelative:tetrislibrary\\blockqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|c:\\users\\cfowl\\source\\repos\\tetris\\tetrislibrary\\blockformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|solutionrelative:tetrislibrary\\blockformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|c:\\users\\cfowl\\source\\repos\\tetris\\tetrislibrary\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|solutionrelative:tetrislibrary\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|c:\\users\\cfowl\\source\\repos\\tetris\\tetrislibrary\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|solutionrelative:tetrislibrary\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|c:\\users\\cfowl\\source\\repos\\tetris\\tetrislibrary\\gamegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|solutionrelative:tetrislibrary\\gamegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|c:\\users\\cfowl\\source\\repos\\tetris\\tetrislibrary\\blocktypes\\zblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|solutionrelative:tetrislibrary\\blocktypes\\zblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|c:\\users\\cfowl\\source\\repos\\tetris\\tetrislibrary\\blocktypes\\tblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|solutionrelative:tetrislibrary\\blocktypes\\tblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|c:\\users\\cfowl\\source\\repos\\tetris\\tetrislibrary\\blocktypes\\sblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|solutionrelative:tetrislibrary\\blocktypes\\sblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|c:\\users\\cfowl\\source\\repos\\tetris\\tetrislibrary\\blocktypes\\oblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|solutionrelative:tetrislibrary\\blocktypes\\oblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|c:\\users\\cfowl\\source\\repos\\tetris\\tetrislibrary\\blocktypes\\lblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|solutionrelative:tetrislibrary\\blocktypes\\lblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|c:\\users\\cfowl\\source\\repos\\tetris\\tetrislibrary\\blocktypes\\jblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|solutionrelative:tetrislibrary\\blocktypes\\jblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|c:\\users\\cfowl\\source\\repos\\tetris\\tetrislibrary\\blocktypes\\iblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC30888C-7747-4D21-B6C4-26DA89ECBA6D}|TetrisLibrary\\TetrisLibrary.csproj|solutionrelative:tetrislibrary\\blocktypes\\iblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ZBlock.cs",
+              "DocumentMoniker": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\BlockTypes\\ZBlock.cs",
+              "RelativeDocumentMoniker": "TetrisLibrary\\BlockTypes\\ZBlock.cs",
+              "ToolTip": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\BlockTypes\\ZBlock.cs",
+              "RelativeToolTip": "TetrisLibrary\\BlockTypes\\ZBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:27:20.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisWPFUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TetrisWPFUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisWPFUI\\MainWindow.xaml",
+              "RelativeToolTip": "TetrisWPFUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-10T17:23:13.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameGrid.cs",
+              "DocumentMoniker": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\GameGrid.cs",
+              "RelativeDocumentMoniker": "TetrisLibrary\\GameGrid.cs",
+              "ToolTip": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\GameGrid.cs",
+              "RelativeToolTip": "TetrisLibrary\\GameGrid.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:28:42.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\GameState.cs",
+              "RelativeDocumentMoniker": "TetrisLibrary\\GameState.cs",
+              "ToolTip": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\GameState.cs",
+              "RelativeToolTip": "TetrisLibrary\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:29:47.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TBlock.cs",
+              "DocumentMoniker": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\BlockTypes\\TBlock.cs",
+              "RelativeDocumentMoniker": "TetrisLibrary\\BlockTypes\\TBlock.cs",
+              "ToolTip": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\BlockTypes\\TBlock.cs",
+              "RelativeToolTip": "TetrisLibrary\\BlockTypes\\TBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:27:18.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlockQueue.cs",
+              "DocumentMoniker": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\BlockQueue.cs",
+              "RelativeDocumentMoniker": "TetrisLibrary\\BlockQueue.cs",
+              "ToolTip": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\BlockQueue.cs",
+              "RelativeToolTip": "TetrisLibrary\\BlockQueue.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:32:00.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\Position.cs",
+              "RelativeDocumentMoniker": "TetrisLibrary\\Position.cs",
+              "ToolTip": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\Position.cs",
+              "RelativeToolTip": "TetrisLibrary\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:33:04.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SBlock.cs",
+              "DocumentMoniker": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\BlockTypes\\SBlock.cs",
+              "RelativeDocumentMoniker": "TetrisLibrary\\BlockTypes\\SBlock.cs",
+              "ToolTip": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\BlockTypes\\SBlock.cs",
+              "RelativeToolTip": "TetrisLibrary\\BlockTypes\\SBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:27:15.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OBlock.cs",
+              "DocumentMoniker": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\BlockTypes\\OBlock.cs",
+              "RelativeDocumentMoniker": "TetrisLibrary\\BlockTypes\\OBlock.cs",
+              "ToolTip": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\BlockTypes\\OBlock.cs",
+              "RelativeToolTip": "TetrisLibrary\\BlockTypes\\OBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:25:54.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlockFormat.cs",
+              "DocumentMoniker": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\BlockFormat.cs",
+              "RelativeDocumentMoniker": "TetrisLibrary\\BlockFormat.cs",
+              "ToolTip": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\BlockFormat.cs",
+              "RelativeToolTip": "TetrisLibrary\\BlockFormat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:30:23.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LBlock.cs",
+              "DocumentMoniker": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\BlockTypes\\LBlock.cs",
+              "RelativeDocumentMoniker": "TetrisLibrary\\BlockTypes\\LBlock.cs",
+              "ToolTip": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\BlockTypes\\LBlock.cs",
+              "RelativeToolTip": "TetrisLibrary\\BlockTypes\\LBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:27:06.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisWPFUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TetrisWPFUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisWPFUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TetrisWPFUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAIAwwHwAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:23:10.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JBlock.cs",
+              "DocumentMoniker": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\BlockTypes\\JBlock.cs",
+              "RelativeDocumentMoniker": "TetrisLibrary\\BlockTypes\\JBlock.cs",
+              "ToolTip": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\BlockTypes\\JBlock.cs",
+              "RelativeToolTip": "TetrisLibrary\\BlockTypes\\JBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:26:58.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBlock.cs",
+              "DocumentMoniker": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\BlockTypes\\IBlock.cs",
+              "RelativeDocumentMoniker": "TetrisLibrary\\BlockTypes\\IBlock.cs",
+              "ToolTip": "C:\\Users\\cfowl\\source\\repos\\Tetris\\TetrisLibrary\\BlockTypes\\IBlock.cs",
+              "RelativeToolTip": "TetrisLibrary\\BlockTypes\\IBlock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:24:31.44Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
